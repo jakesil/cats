@@ -126,3 +126,29 @@ section div{
   .text-center{
     text-align: center;
   }
+
+  .cta{
+    font-size: 25px;
+  }
+
+  .cta button{
+    font-size: 25px;
+    background-color:rgb(240, 212, 52) ;
+    padding: 0px 30px;
+  }
+
+  #cats-container{
+    display: none;
+
+  }
+
+  footer{
+    width: 100%;
+    background-color: rgb(240, 212, 52);
+    color: black;
+    font-size: 25px;
+    padding:10px ;
+    text-align: center;
+  }
+
+  
